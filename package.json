@@ -1,10 +1,17 @@
 {
+<<<<<<< Updated upstream
   "name": "nft",
   "version": "1.4.0",
   "engineStrict": false,
   "engines" : { 
     "npm": ">=6.0.0",
     "node" : "=14.17.0" },
+=======
+  "homepage": "https://Momothebowler.github.io/nft",
+  "name": "candy-machine-mint",
+  "version": "0.1.0",
+  "private": true,
+>>>>>>> Stashed changes
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
@@ -23,8 +30,11 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+<<<<<<< Updated upstream
     "ejs": "^3.1.6",
     "express": "^4.15.2",
+=======
+>>>>>>> Stashed changes
     "react": "^17.0.2",
     "react-countdown": "^2.3.2",
     "react-dom": "^17.0.2",
@@ -61,8 +71,12 @@
   },
   "devDependencies": {
     "@types/styled-components": "^5.1.14",
+<<<<<<< Updated upstream
     "gh-pages": "^3.2.3",
     "got": "^11.3.0",
     "tape": "^4.7.0"
+=======
+    "gh-pages": "^3.2.3"
+>>>>>>> Stashed changes
   }
 }
