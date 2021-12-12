@@ -1,1 +1,1 @@
-web: node app.tsx
+web: react-scripts start
